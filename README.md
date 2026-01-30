@@ -6,7 +6,7 @@ This dashboard explores the recruitment journey from application to hire, highli
 
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="Recruitment_Pipeline_Dashboard.jpg" width="900" title="Recruitment Dashboard Preview">
+  <img src="Recruitment_Pipeline_Dashboard.jpeg" width="900" title="Recruitment Dashboard Preview">
 </p>
 
 ## 🔍 Key Insights
@@ -28,4 +28,4 @@ This dashboard explores the recruitment journey from application to hire, highli
 
 ## 📂 Project Files
 * `Recruitment_Pipeline (4).pdf`: Full executive summary and dashboard report.
-* `Recruitment_Pipeline_Dashboard.jpg`: High-resolution dashboard preview.
+* `Recruitment_Pipeline_Dashboard.jpeg`: High-resolution dashboard preview.
