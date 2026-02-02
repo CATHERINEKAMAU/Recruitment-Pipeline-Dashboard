@@ -1,31 +1,58 @@
 # 📊 Recruitment Pipeline & Efficiency Dashboard
-*Interactive Business Intelligence solution built with Looker Studio*
+*Turning hiring data into human-centered insight*
 
 ## 📌 Project Overview
-This dashboard explores the recruitment journey from application to hire, highlighting how candidates move through each stage, where time is spent, and which sourcing channels lead to successful outcomes. It is designed to give hiring teams a clear, human-centered view of the hiring process and support more informed recruitment decisions. Ultimately, this dashboard isn't just about numbers; it’s about understanding the human experience within our hiring process.
+Hiring is not just about filling roles — it is a journey experienced by both candidates and hiring teams.  
+This project explores the recruitment pipeline from application to hire, focusing on how candidates move through each stage, where time is spent, and which sourcing channels lead to successful outcomes.
+
+Built using Looker Studio, the dashboard provides a clear and intuitive view of hiring performance, helping teams identify bottlenecks, maintain candidate momentum, and make more informed recruitment decisions.
+
+---
 
 ## 🖼️ Dashboard Preview
+
 <p align="center">
-  <img src="Recruitment_Pipeline_Dashboard.jpeg" width="900" title="Recruitment Dashboard Preview">
+  <img src="recruitment.jpeg" width="900" alt="Recruitment Pipeline Dashboard Preview">
 </p>
 
-## 🔍 Key Insights
-* **Referrals are the Quality Driver:** Referrals and Careers Page candidates convert to hires more efficiently than high-volume sources like LinkedIn.
-* **Stage Velocity Bottlenecks:** Technical interviews and offer stages take the longest, slowing overall hiring speed.
-* **Engineering Leads Demand:** Engineering roles account for the highest hiring demand and the longest time to close.
-* **Pipeline Momentum:** A strong active pipeline of 38 candidates highlights the importance of fast early-stage screening to maintain momentum.
+---
 
-## 🛠️ Tools & Technical Implementation
-* **Looker Studio:** Primary tool for interactive data visualization and dashboarding.
-* **Pivot Table Heatmaps:** Implemented to instantly flag process friction points like the 16-day peak in HR offers.
-* **Conditional Formatting:** Applied to visualize "Days in Process" where darker colors highlight slower stages.
-* **Data Blending:** Integrated sourcing and departmental data to calculate conversion rates.
+## 🔍 What the Data Reveals
 
-## 💡 Strategic Recommendations
-* **Speed to Offer:** Shorten approval and offer timelines to reduce late-stage candidate drop-off.
-* **Sourcing Priority:** Continue prioritizing referral-driven sourcing to maintain high hire quality.
-* **Coordination Improvement:** Improve interview scheduling, particularly for technical assessments, to accelerate decisions.
+- **Quality over volume:** Referral and careers page candidates convert to hires more efficiently than high-volume job boards like LinkedIn.  
+- **Interview stages slow progress:** Technical interviews and offer stages account for the longest delays in the hiring journey.  
+- **Engineering drives demand:** Engineering roles represent the largest share of hiring activity and take the longest to close.  
+- **Early stages shape outcomes:** A strong active pipeline highlights the importance of fast screening to keep candidates engaged.
+
+---
+
+## 🧠 Why This Matters
+The insights suggest that hiring speed is influenced more by internal coordination than by candidate availability. Improving interview flow and approval timelines can significantly enhance candidate experience and reduce time-to-hire without increasing application volume.
+
+---
+
+## 🛠️ How the Dashboard Was Built
+- **Looker Studio** for interactive reporting and storytelling  
+- **Funnel analysis** to visualize candidate progression  
+- **Heatmaps and conditional formatting** to surface delays and bottlenecks  
+- **Blended views** combining sourcing, departments, and time metrics  
+
+*(Technical details are intentionally minimal to keep the focus on insight and decision-making.)*
+
+---
 
 ## 📂 Project Files
-* `Recruitment_Pipeline (4).pdf`: Full executive summary and dashboard report.
-* `Recruitment_Pipeline_Dashboard.jpeg`: High-resolution dashboard preview.
+- **Recruitment_Pipeline (4).pdf** – Executive summary and final dashboard export  
+- **recruitment.jpeg** – Static dashboard preview  
+
+---
+
+## 🔗 Live Dashboard
+View the interactive Looker Studio dashboard here:  
+**[Recruitment Pipeline Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)**
+
+---
+
+## 👤 Author
+**Catherine Kamau**  
+Data Analytics | Business Intelligence | Insight-driven storytelling
