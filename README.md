@@ -49,7 +49,8 @@ The insights suggest that hiring speed is influenced more by internal coordinati
 
 ## 🔗 Live Dashboard
 View the interactive Looker Studio dashboard here:  
-**[Recruitment Pipeline Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)**
+**[Recruitment Pipeline Dashboard](https://lookerstudio.google.com/reporting/6bf29ba2-9698-4348-b5fa-6a61ce1e8ac8)**
+
 
 ---
 
